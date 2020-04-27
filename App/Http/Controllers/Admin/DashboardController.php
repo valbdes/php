@@ -1,5 +1,5 @@
 <?php
-namespace  Admin;
+namespace  App\Http\Controllers\Admin;
 
 class DashboardController
 {

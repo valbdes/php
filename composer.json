@@ -1,0 +1,13 @@
+{
+    "name": "valbdes/php",
+    "description": "",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+           "Models\\": "App/Models/",
+           "Admin\\": "App/Http/Controllers/Admin/",
+           "Controllers\\": "App/Http/Controllers/",
+           "Helpers\\": "App/Http/Helpers/"
+        }
+    }
+}

@@ -8,12 +8,7 @@ use Admin\OrdersController;
 use Admin\DashboardController;
 use Controllers\MainController;
 
-
-
 include_once 'vendor/autoload.php';
-
-
-
 
 try {
     $obj = new MainController();
